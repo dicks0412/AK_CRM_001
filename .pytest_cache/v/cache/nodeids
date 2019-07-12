@@ -1,0 +1,10 @@
+[
+  "scripts/test_login.py::TestLogin::()::test_login[17600919712-123456]",
+  "scripts/test_login.py::TestLogin::()::test_login[17600919711-123456]",
+  "scripts/test_login.py::TestLogin::()::test_login[17600919712-1234]",
+  "scripts/test_login.py::TestLogin::()::test_login[-123456]",
+  "scripts/test_login.py::TestLogin::()::test_login[17600919712-]",
+  "scripts/test_login.py::TestLogin::()::test_login[-]",
+  "scripts/test_login.py::TestLogin::()::test_login[176009197123-123456]",
+  "scripts/test_login.py::TestLogin::()::test_login[17600919712-1234567]"
+]
